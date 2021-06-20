@@ -1,0 +1,17 @@
+.carousel-item img{
+    position: relative;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+.container{
+    padding-top: 3%;
+}
+
+.blog{
+    padding-top: 50px;
+}
+
+h5{
+    padding-bottom: 10px;
+}
